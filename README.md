@@ -12,6 +12,24 @@
 ## Strategy
 
 ## Humans of WSC
+ 
+1. Terry Guo
+2. Akshat Singal
+3. Angie Yang
+4. Diya Amin
+5. Suzu Kitamura
+6. Emily Peng
+7. Rhowan Ho
+8. DK Savage
+9. Nicholas Chin
+10. Anis Adiba
+11. Ellen Ng
+12. Team Mitochondria
+13. Amy Mance
+14. Maya Almoataz
+15. Maxine Magtoto
+16. Julia Hlaing
+17. Jennalynn Lam
 
 ## Miscellaneous
 
