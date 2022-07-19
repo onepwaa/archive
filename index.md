@@ -38,9 +38,9 @@ Thank you to the [Internet Archive](https://archive.org) for keeping these alive
 - [How to Write A Compelling Essay with Manas Kapur](https://www.youtube.com/watch?v=yn2uc7Yg5oA&t=13s) (Jul 11, 2021)
 - [Scavenger Hunt Closing Ceremony](https://www.youtube.com/watch?v=8ipcp31yEG4) (Sep 6, 2020)
 - [Welcome to the Scavenger Hunt!](https://www.youtube.com/watch?v=jMEoXGesIQw) (Aug 24, 2020)
-- [1P Online Camp 2020 | Challenge Workshop](https://www.youtube.com/watch?v=nic1ctVllbk) (Jun 21, 2020)
-- [1P Online Camp 2020 | Writing Workshop](https://www.youtube.com/watch?v=P77xHKtTfVo) (Jun 21, 2020)
-- [1P Online Camp 2020 | Debate Workshop II - Darren Tan](https://www.youtube.com/watch?v=WVxo4lNqzwg) (Jun 21, 2020)
-- [1P Online Camp 2020 | Debate Workshop I - Savanah James](https://www.youtube.com/watch?v=ldRILvOiQFM) (Jun 20, 2020)
+- [1P Online Camp 2020 \| Challenge Workshop](https://www.youtube.com/watch?v=nic1ctVllbk) (Jun 21, 2020)
+- [1P Online Camp 2020 \| Writing Workshop](https://www.youtube.com/watch?v=P77xHKtTfVo) (Jun 21, 2020)
+- [1P Online Camp 2020 \| Debate Workshop II - Darren Tan](https://www.youtube.com/watch?v=WVxo4lNqzwg) (Jun 21, 2020)
+- [1P Online Camp 2020 \| Debate Workshop I - Savanah James](https://www.youtube.com/watch?v=ldRILvOiQFM) (Jun 20, 2020)
 
 :heart: Thank you for the wonderful four years.
