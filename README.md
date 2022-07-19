@@ -13,23 +13,23 @@
 
 ## Humans of WSC
  
-1. Terry Guo
-2. Akshat Singal
-3. Angie Yang
-4. Diya Amin
-5. Suzu Kitamura
-6. Emily Peng
-7. Rhowan Ho
-8. DK Savage
-9. Nicholas Chin
-10. Anis Adiba
-11. Ellen Ng
-12. Team Mitochondria
-13. Amy Mance
-14. Maya Almoataz
-15. Maxine Magtoto
-16. Julia Hlaing
-17. Jennalynn Lam
+1. [Terry Guo](/humans-of-wsc/2018-01-13-terry-guo) (13/01/2018)
+2. [Akshat Singal](/humans-of-wsc/2018-02-04-akshat-singal) (04/02/2018)
+3. [Angie Yang](/humans-of-wsc/2018-02-20-angie-yang) (20/02/2018)
+4. [Diya Amin](/humans-of-wsc/2018-03-10-diya-amin) (10/03/2018)
+5. [Suzu Kitamura](/humans-of-wsc/2018-03-25-suzu-kitamura) (25/03/2018)
+6. [Emily Peng](/humans-of-wsc/2018-04-10-emily-peng) (10/04/2018)
+7. [Rhowan Ho](/humans-of-wsc/2018-04-27-rhowan-ho) (27/04/2018)
+8. [DK Savage](/humans-of-wsc/2018-06-11-dk-savage) (11/06/2018)
+9. [Nicholas Chin](/humans-of-wsc/2018-07-09-nicholas-chin) (09/07/2018)
+10. [Anis Adiba](/humans-of-wsc/2018-08-28-anis-adiba) (28/08/2018)
+11. [Ellen Ng](/humans-of-wsc/2018-09-16-ellen-ng) (16/09/2018)
+12. [Team Mitochondria](/humans-of-wsc/2018-10-21-team-mitochondria) (21/10/2018)
+13. [Amy Mance](/humans-of-wsc/2019-02-18-amy-mance) (18/02/2019)
+14. [Maya Almoataz](/humans-of-wsc/2019-03-29-maya-almoataz) (29/03/2019)
+15. [Maxine Magtoto](/humans-of-wsc/2019-07-05-maxine-magtoto) (05/07/2019)
+16. [Julia Hlaing](/humans-of-wsc/2021-05-10-julia-hlaing) (10/05/2021)
+17. [Jennalynn Lam](/humans-of-wsc/2021-10-10-jennalynn-lam) (10/10/2021)
 
 ## Miscellaneous
 
