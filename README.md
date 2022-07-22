@@ -55,7 +55,6 @@ Thank you to the [Internet Archive](https://archive.org) for keeping these alive
 
 - [onepwaa.org](https://web.archive.org/web/20220718032742/https://www.onepwaa.org/): our main website (source code: [onepwaa/site](https://github.com/onepwaa/site))
 - [pwaachive.onepwaa.org](https://web.archive.org/web/20220718032951/https://pwaachive.onepwaa.org/): an archive of materials from OnePwaa's online WSCamp (source code: [onepwaa/pwaachive](https://github.com/onepwaa/pwaachive))
-- [pwaachive.onepwaa.org](https://web.archive.org/web/20220718032951/https://pwaachive.onepwaa.org/): an archive of materials from OnePwaa's online WSCamp (source code: [onepwaa/pwaachive](https://github.com/onepwaa/pwaachive))
 - [blm.onepwaa.org](https://web.archive.org/web/20220718033217/https://blm.onepwaa.org/): our statement on the 2020 BLM protests (source code: [onepwaa/blm](https://github.com/onepwaa/blm))
 - [singapore.onepwaa.org](https://web.archive.org/web/20220718033412/https://singapore.onepwaa.org/): landing page for our WSCamp in Singapore (source code: [onepwaa/camp-sg](https://github.com/onepwaa/camp-sg))
 - [apply.onepwaa.org](https://web.archive.org/web/20220718033533/https://apply.onepwaa.org/): page for our January 2021 volunteer intake (source code: [onepwaa/apply](https://github.com/onepwaa/apply))
