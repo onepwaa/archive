@@ -5,11 +5,21 @@
 <p align="left"><i>An archive of all content produced by the OnePwaa team between October 2017 and May 2022.</i></p>
 <hr />
 
-[WELCOME LETTER]
+Hey Scholars!
 
-## Knowledge
+After five years, it’s time to say goodbye.
 
-## Strategy
+Ever since Darren founded OnePwaa in 2017, we’ve made a lot of memories — the evolution of our content from the very first strategy guides to the deep dives we came to be known for, the booth we set up in Kuala Lumpur in 2018, the various annual (mostly!) camps we’ve held both on- and offline, every essay we’ve published and scholar we’ve interviewed, the list goes on… 
+
+None of this would have been possible without your support. Thank you, scholars, for reading our deep dives, signing up for our events and using our resources. We leave you with an archive of everything we’ve ever posted, on this website: https://onepwaa.github.io/.
+
+Lastly, it should be noted that behind every essay, guide or graphic we’ve released over these years, there was one of our team members. Special thanks to those who have joined us in this journey: Darren Tan, Sol Swea, Elaine Zhu, Arsh Shrivastava, Amy Mance, William Ting, Sarah Shiu, Jeremy Flics, Rishika Arora, Van An Trinh, Charlie Goldsworthy, Charmaine Ng, Hui Yen Lim, Haris Rizwan, Stephanie Komala, Rhowan Ho, Ryan Wong, Manaam Raza, Roshni Ruben, Sam Poder, Joshua Ng, Jackalyn So, Daisy Gambles, Charmaine Ng, Mary Rose Sankaran, R. M. Nabiel Kusumahwardana, Stephanie Yeung, Hyning Gan, Jacq Lee, Gigi Chiu, Sahana Kaur, Emily Peng, Haris Rizwan, Shaurya Chandrawanshi, Janet Jiang, Sophia Giblett, Daniel Pham, Ryan Wong, Terry Guo, Savanah James, Archi Tulsian, Manahil Awan, Alice Yang, Adina Gader, Kenneth Angelo Julio (Kael Julio), Isabel Pieterson, Manyasiri (Pear) Chotbunwong, Rafi Rahman, Manas Kapur, Advit Garg, Manal Raza, Himish Paul, Adeeva Fatima, Dalia Ibrahim, Miguel Belen, Oreoluwa Alexandra Sofolahan, Mehzad Chowdhury, Muhammad Saleh Narejo, Rishi D V, Iskra Gutesa, Edwin Cheah, Neil Ghosh.
+
+## Knowledge & Strategy
+
+[Read all Knowledge posts.](https://web.archive.org/web/20210515042249/https://www.onepwaa.org/knowledge.html)
+
+[Read all Strategy posts.](https://web.archive.org/web/20210515042249/https://www.onepwaa.org/strategy.html)
 
 ## Humans of WSC
  
